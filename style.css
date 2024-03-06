@@ -1,0 +1,33 @@
+
+.logo {
+    width: 15rem;
+    height: 15rem;
+    margin: 0 auto;
+    display: block;
+}
+
+.center {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    outline: none;
+}
+
+button {
+    border-radius : 5px;   
+}
+
+
+img {
+    width: 10rem;
+    height: 100%;
+}
